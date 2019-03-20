@@ -1,26 +1,7 @@
 # PISCINE PHOTOSHOP
 
 ## Synopsis
-This is the third web project from @42School : 
-A web application that allows the user to research and watch videos.
-
-The player is directly integrated to the site, and the videos are downloaded through the BitTorrent protocol. 
-
-The research engine interrogates multiple external sources our choice, like for example http://www.legittorrents.info, or even https://archive.org.
-Once the element selected, it will be downloaded from the server and streamed on the web player at the same time. Which means that the player won’t only show the video once the download is completed, but will be able to stream directly the video feed.
-
-For further information, please read [hypertube.en.pdf](https://github.com/acoulomb/hypertube42/blob/master/hypertube.en.pdf).
-
-WARNING: This wesite has no commercial aim, it is a school project for pedagogic purpose. It was never meant to run in production and will never be. Any use of it is your responsibility and you should not put it online.
-
-- [Contributors](#contributors)
-- [Dev environment](#dev-environment)
-- [Objectives](#objectives)
-- [Skills](#skills)
-- [Preview](#preview)
-- [Demo](#demo)
-
-Grade: 125/100
+Several advanced exercises in photoshop of the 42 creation course.
 
 ## Skills
 - Graphics 
